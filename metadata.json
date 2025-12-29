@@ -1,0 +1,8 @@
+{
+  "name": "DB MATHSOLVER.AI",
+  "description": "A world-class AI mathematical problem solver that supports text, image uploads, and handwritten digital drawing inputs. Features step-by-step tutoring and concept explanations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
